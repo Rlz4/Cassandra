@@ -13,7 +13,5 @@ Cassandra 4 support python 3.8
 Cassandra only runs on Linux OS and I have been using 2 method to connect with Cassandra.
 
 1. Connect by using python driver (VS Code) to AstraDB
+2. Connect by using Docker
 
-
-
-Open https://astra.datastax.com/register link and register
