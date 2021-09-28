@@ -14,4 +14,6 @@ Cassandra only runs on Linux OS and I have been using 2 method to connect with C
 
 1. Connect by using python driver (VS Code) to AstraDB
 
+
+
 Open https://astra.datastax.com/register link and register
